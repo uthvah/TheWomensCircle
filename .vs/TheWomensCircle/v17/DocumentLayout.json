@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\team.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:team.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\team\\angela-smith.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:team\\angela-smith.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "team.html",
+              "DocumentMoniker": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\team.html",
+              "RelativeDocumentMoniker": "team.html",
+              "ToolTip": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\team.html",
+              "RelativeToolTip": "team.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-03T11:32:59.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "angela-smith.html",
+              "DocumentMoniker": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\team\\angela-smith.html",
+              "RelativeDocumentMoniker": "team\\angela-smith.html",
+              "ToolTip": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\team\\angela-smith.html",
+              "RelativeToolTip": "team\\angela-smith.html",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAiwH4AAAAPAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-03T10:34:12.315Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "about.html",
               "ToolTip": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\about.html",
               "RelativeToolTip": "about.html",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAiwHUAAABNRQAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-03-02T21:08:50.489Z",
               "EditorCaption": ""
@@ -41,7 +75,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAB5CAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAiwHYAAAAiwgAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-03-02T11:29:28.185Z",
               "EditorCaption": ""
