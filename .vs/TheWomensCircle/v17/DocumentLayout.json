@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\schedule.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:schedule.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\schedule.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:schedule.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\about.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\old-about.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:old-about.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\style.css||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:style.css||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\team.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:team.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\old-about.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:old-about.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\style.css",
+              "RelativeDocumentMoniker": "style.css",
+              "ToolTip": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\style.css",
+              "RelativeToolTip": "style.css",
+              "ViewState": "AQIAADkOAAAAAAAAAAAowHAOAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-05T18:57:04.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "schedule.html",
               "DocumentMoniker": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\schedule.html",
               "RelativeDocumentMoniker": "schedule.html",
               "ToolTip": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\schedule.html",
               "RelativeToolTip": "schedule.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABeEAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB6AQAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-03-04T21:08:25.276Z",
               "EditorCaption": ""
@@ -55,7 +72,8 @@
               "RelativeToolTip": "team.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-03-03T11:32:59.679Z"
+              "WhenOpened": "2024-03-03T11:32:59.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -65,14 +83,14 @@
               "RelativeDocumentMoniker": "about.html",
               "ToolTip": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\about.html",
               "RelativeToolTip": "about.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADXCAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAB6AwAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-03-03T10:34:12.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "old-about.html",
               "DocumentMoniker": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\old-about.html",
               "RelativeDocumentMoniker": "old-about.html",
@@ -85,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\uthva\\Documents\\GitHub\\TheWomensCircle\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKCQAA",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAYwLEAAAA9AQAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-03-02T11:29:28.185Z",
               "EditorCaption": ""

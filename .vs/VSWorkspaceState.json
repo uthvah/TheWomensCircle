@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\blog",
+    "\\product",
+    "\\team"
   ],
-  "SelectedNode": "\\schedule.html",
+  "SelectedNode": "\\style.css",
   "PreviewInSolutionExplorer": false
 }
